@@ -1,6 +1,6 @@
 # Device Names. My computing devices are named after hand-held weapons, mostly swords.
 
-![Siegfried wielding Balmung](./File:Siegfried_and_the_Famous_Sword_Balmung.jpg)
+![Siegfried wielding Balmung](https://github.com/codingoutloud/devicenames/blob/master/Siegfried_and_the_Famous_Sword_Balmung.jpg)
 
 # Current Device Names
 
